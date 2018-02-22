@@ -1,3 +1,5 @@
+#uses the date scraped in the script "Scraping_Twitter_Data_Detecting_Bots" in order too perform a LDA on top of it.
+
 import pandas as pd
 import re
 from nltk.corpus import stopwords 
